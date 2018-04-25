@@ -1,4 +1,4 @@
-# FullFeatureDateInput
+# Dateinput Validator
 
 Date Validator for Text - ```<input/>``` Elements
 
