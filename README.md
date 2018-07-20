@@ -5,7 +5,7 @@ Date Validator for Text - ```<input/>``` Elements
 
 ## Usage
 
-### Simplest usage with default values:
+### Simple usage with default values:
 ```javascript
 FullFeatureDateInput.Init();
 ```
